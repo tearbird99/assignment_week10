@@ -14,4 +14,4 @@ RUN touch /files/a.txt
 RUN touch /files/b.txt
 RUN touch /files/c.txt
 
-RUN git clone [https://github.com/tearbird99/assignment_week8] /
+RUN git clone https://github.com/tearbird99/assignment_week8.git /
